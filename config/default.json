@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://manegandaia:apache98@contact-keeper.gcdiq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://manegandaia:apache98@contact-keeper.gcdiq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
